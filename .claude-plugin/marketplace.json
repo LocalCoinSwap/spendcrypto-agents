@@ -1,0 +1,22 @@
+{
+  "name": "spendcrypto-skills",
+  "owner": {
+    "name": "SpendCrypto",
+    "email": "support@spendcrypto.com"
+  },
+  "metadata": {
+    "description": "Agent skills and bundled MCP connector for buying gift cards and eSIMs on SpendCrypto",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "spendcrypto",
+      "description": "Gift cards and eSIMs via SpendCrypto MCP — OAuth or API key, prepaid Spend Credits checkout",
+      "source": "./",
+      "homepage": "https://spendcrypto.com/developers",
+      "repository": "https://github.com/spendcrypto/spendcrypto-agents",
+      "keywords": ["gift-cards", "esim", "crypto", "mcp", "prepaid"],
+      "category": "commerce"
+    }
+  ]
+}

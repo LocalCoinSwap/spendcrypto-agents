@@ -1,0 +1,13 @@
+{
+  "name": "spendcrypto",
+  "description": "Buy gift cards and eSIMs on SpendCrypto — prepaid Spend Credits, crypto payment links, OAuth MCP",
+  "version": "1.0.0",
+  "author": {
+    "name": "SpendCrypto",
+    "email": "support@spendcrypto.com"
+  },
+  "homepage": "https://spendcrypto.com/developers",
+  "repository": "https://github.com/spendcrypto/spendcrypto-agents",
+  "license": "MIT",
+  "keywords": ["gift-cards", "esim", "crypto", "mcp", "prepaid", "agents"]
+}

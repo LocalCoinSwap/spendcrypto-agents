@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "spendcrypto": {
+      "type": "http",
+      "url": "https://api.spendcrypto.com/mcp"
+    }
+  }
+}
