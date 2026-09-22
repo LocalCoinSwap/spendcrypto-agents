@@ -56,7 +56,7 @@ Create keys at [spendcrypto.com/developers/keys](https://spendcrypto.com/develop
 Or manual:
 
 ```bash
-claude mcp add spendcrypto --url https://api.spendcrypto.com/mcp
+claude mcp add --transport http spendcrypto https://api.spendcrypto.com/mcp
 ```
 
 OAuth runs on first tool call.
